@@ -1,0 +1,11 @@
+p {font-size: large; color: blue;}
+.BlueFont{
+    color: rgb(4, 4, 41);
+}
+.P1 {
+    border: 5px solid red; 
+}
+.text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder
+}
